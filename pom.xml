@@ -49,6 +49,7 @@
 
 	</dependencies>
 
+	<!-- finalName : 빌드명, 그 아래는 빌드 도구 -->
 	<build>
 		<finalName>hello-jenkins</finalName>
 		<plugins>
